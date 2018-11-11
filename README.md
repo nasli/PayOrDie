@@ -8,9 +8,8 @@ Desde el punto de vista humano las claves son aportar simplicidad y confianza. U
 
 El onboarding adecuado al ser una aplicación sencilla e intuitiva podría limitarse a dos conceptos:
 
-- Comienzo uso: al comenzar vacía indicarle aun no hay actividad reciente que mostrar y animarle ha comenzar a añadir nuevos pagos o solicitudes de dinero a un amigo, un label button a la sección de añadir.
+- Comienzo uso: al comenzar vacía indicarle aun no hay actividad reciente que mostrar y animarle a comenzar añadir nuevos pagos o solicitudes de dinero a un amigo, un label button a la sección de añadir.
 
 - Obtención del consentimiento acceso a los contactos: no pidiendo al usuario los permisos de acceso contactos hasta que no se encuentre realizando un proceso de pago o solicitud de dinero y mostrarlo en el momento que vaya a seleccionar el amigo destinatario. Se podría hacer con una interfaz popup amigable.
 
-
-![](PayOrDiePrototype.gif)
+<p align="center"><img src ="PayOrDiePrototype.gif"/></p>
